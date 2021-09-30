@@ -1,0 +1,44 @@
+#box1{
+    color: blue;
+    border: 5px solid orange;
+    margin: 50px;
+    padding: 50px;
+}
+
+#box2{
+    color: rgb(0, 0, 255);
+    border: 5px solid orange;
+    border-style: dashed dotted double solid;
+    letter-spacing: 5px;
+    width: 70%;
+    margin: 50px;
+    padding: 50px;
+    text-shadow: -3px -1px;
+   
+    
+}
+
+#box3{
+    color: #0000FF;
+    word-spacing: 5px;
+    text-transform: uppercase;
+    border: 10px groove purple;
+    border-radius: 40px;
+    margin: 50px;
+    padding: 30px;
+    text-align: justify;
+}
+
+#box4{
+    color: rgba(0, 0, 255, 0.7);
+    border-right: 10px solid red;
+    margin: 50px;
+}
+
+#box5{
+    color: hsl(240, 53%, 44%);
+}
+
+#box6{
+    color: hsla(240, 100%, 50%, 0.3);
+}
